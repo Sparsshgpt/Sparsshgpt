@@ -1,19 +1,23 @@
-<div align="center">
+# Sparsh Gupta
 
-# SPARSH
+**AI/ML • Software Development • Problem Solving**
 
-### AI • SOFTWARE • BUILDING
+I build software, explore AI/ML, and learn by building real projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+ENTHUSIAST;SOFTWARE+DEVELOPER;BUILDING+COOL+THINGS" />
+### Tech
+Python · Java · JavaScript · React · TensorFlow · SQL · Git
 
-</div>
+### Projects
+- **ClientDesk** — Customer & Order Management
+- **SmartCMS** — Complaint Management System
+- **E-RideX** — Python Project
+- **SANKET 2.0** — Python Project
+
+### Connect
+[GitHub](https://github.com/Sparsshgpt) · [LeetCode](https://leetcode.com/) · [LinkedIn](https://linkedin.com/)
 
 ---
 
-### 🧠 About Me
-
-```text
-AI / ML        → Exploring
-Software       → Building
-Problem Solving → Practicing
-GenAI          → Learning
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sparsshgpt/Sparsshgpt/output/github-contribution-grid-snake-dark.svg" />
+</p>
